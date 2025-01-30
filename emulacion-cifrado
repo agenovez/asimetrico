@@ -1,3 +1,5 @@
+#Emulacion de cifrado asimetrico
+#Fuente: OpenAI. (2025). Implementación de cifrado asimétrico con RSA en Python [Código fuente]. ChatGPT. https://openai.com
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
 from cryptography.hazmat.primitives import hashes, serialization
 
